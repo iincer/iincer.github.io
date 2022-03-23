@@ -11,7 +11,7 @@
         },
         {
             "title": "Hypercontracts",
-            "authors": "Inigo Incer, Albert Beneniste, Alberto Sangiovanni-Vincentelli, and Sanjit Seshia",
+            "authors": "Inigo Incer, Albert Benveniste, Alberto Sangiovanni-Vincentelli, and Sanjit Seshia",
             "venue": "arXiv preprint arXiv:2106.02449. May 2021.",
             "pdf_link": "https://arxiv.org/pdf/2106.02449.pdf",
             "abstract": "Assume-guarantee (AG) are formal specifications for components in a system that make explicit what the component assumes from its environment and what is required from the component being specified when the environment meets the assumptions of the contract. In AG contracts, the assumptions and guarantees are expressed using trace properties. Some security and robustness properties cannot be expressed using trace properties and need hyperproperties for their representation. Hypercontracts extend AG contracts by allowing arbitrary structured hyperproperties to be used to define the assumptions and guarantees of the specification. This papers introduces the algebra of hypercontracts.",
