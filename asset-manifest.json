@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.1628da85.css",
-    "main.js": "/static/js/main.b44439a2.js",
+    "main.js": "/static/js/main.bf18b9b4.js",
     "static/js/453.1f10755b.chunk.js": "/static/js/453.1f10755b.chunk.js",
     "static/media/2019-CyPhy.pdf": "/static/media/2019-CyPhy.9e73b911c86cd02078a6.pdf",
     "static/media/2023_SMCIT.pdf": "/static/media/2023_SMCIT.f1f7cc39e77f9fd92442.pdf",
@@ -33,11 +33,11 @@
     "static/media/logo.svg": "/static/media/logo.6ce24c58023cc2f8fd88.svg",
     "index.html": "/index.html",
     "main.1628da85.css.map": "/static/css/main.1628da85.css.map",
-    "main.b44439a2.js.map": "/static/js/main.b44439a2.js.map",
+    "main.bf18b9b4.js.map": "/static/js/main.bf18b9b4.js.map",
     "453.1f10755b.chunk.js.map": "/static/js/453.1f10755b.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.1628da85.css",
-    "static/js/main.b44439a2.js"
+    "static/js/main.bf18b9b4.js"
   ]
 }
