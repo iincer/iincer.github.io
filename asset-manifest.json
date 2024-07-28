@@ -1,23 +1,8 @@
 {
   "files": {
-    "main.css": "/static/css/main.1628da85.css",
-    "main.js": "/static/js/main.d3276032.js",
-    "static/js/453.1f10755b.chunk.js": "/static/js/453.1f10755b.chunk.js",
-    "static/media/2024_CDC_GeneticCircuitAssurance.pdf": "/static/media/2024_CDC_GeneticCircuitAssurance.b5c6b5dd58b79cb3c077.pdf",
-    "static/media/2019-CyPhy.pdf": "/static/media/2019-CyPhy.9e73b911c86cd02078a6.pdf",
-    "static/media/2023_SMCIT.pdf": "/static/media/2023_SMCIT.f1f7cc39e77f9fd92442.pdf",
-    "static/media/2023_MEMOCODEb.pdf": "/static/media/2023_MEMOCODEb.f7b76821d19364205519.pdf",
-    "static/media/2024_SCP_LTLContractSynthesis.pdf": "/static/media/2024_SCP_LTLContractSynthesis.5946a7d2f5be10f1c13b.pdf",
-    "static/media/2018-IWSPA.pdf": "/static/media/2018-IWSPA.81cad3e76e0543f30be8.pdf",
-    "static/media/2022_SystemDesign.pdf": "/static/media/2022_SystemDesign.a2c65e8b27ddef70bca9.pdf",
-    "static/media/2022_NFM.pdf": "/static/media/2022_NFM.38db1115b76828d4d3ac.pdf",
-    "static/media/2023_NFM.pdf": "/static/media/2023_NFM.444ee862dec7346106ba.pdf",
-    "static/media/2023_FORMALISE.pdf": "/static/media/2023_FORMALISE.689b1f1760e10948618e.pdf",
-    "static/media/2019-EMSOFT.pdf": "/static/media/2019-EMSOFT.1da28469c4368e0c3d7b.pdf",
-    "static/media/2024_LCSS_LayeredControl.pdf": "/static/media/2024_LCSS_LayeredControl.08f2f5f2c3c1ae239405.pdf",
-    "static/media/2023_MEMOCODEa.pdf": "/static/media/2023_MEMOCODEa.e77887b5d366e399c824.pdf",
-    "static/media/2024_ISoLA_ContractTensorProduct.pdf": "/static/media/2024_ISoLA_ContractTensorProduct.b5a36914ae2eb9e2b639.pdf",
-    "static/media/2018-MEMOCODE.pdf": "/static/media/2018-MEMOCODE.143a175731d5f08e7ed5.pdf",
+    "main.css": "/static/css/main.3d2428c5.css",
+    "main.js": "/static/js/main.46dffa87.js",
+    "static/js/453.9eb760ef.chunk.js": "/static/js/453.9eb760ef.chunk.js",
     "static/media/butler_medium-webfont.woff": "/static/media/butler_medium-webfont.b8af559baa3c08ca1714.woff",
     "static/media/butler_extrabold-webfont.woff": "/static/media/butler_extrabold-webfont.289a5bf841beb092b000.woff",
     "static/media/butler_light-webfont.woff": "/static/media/butler_light-webfont.95789e1d0ea31d57e9b0.woff",
@@ -32,16 +17,14 @@
     "static/media/butler_ultra_light-webfont.woff2": "/static/media/butler_ultra_light-webfont.eb03e72ea700d75105ef.woff2",
     "static/media/butler_black-webfont.woff2": "/static/media/butler_black-webfont.fafdd6957b95ba988c05.woff2",
     "static/media/butler_bold-webfont.woff2": "/static/media/butler_bold-webfont.b0122b729906c2711cda.woff2",
-    "static/media/index.cjs": "/static/media/index.1282334337c6cac7deca.cjs",
     "static/media/banner-long.webp": "/static/media/banner-long.038e2c741b58fa062937.webp",
-    "static/media/logo.svg": "/static/media/logo.6ce24c58023cc2f8fd88.svg",
     "index.html": "/index.html",
-    "main.1628da85.css.map": "/static/css/main.1628da85.css.map",
-    "main.d3276032.js.map": "/static/js/main.d3276032.js.map",
-    "453.1f10755b.chunk.js.map": "/static/js/453.1f10755b.chunk.js.map"
+    "main.3d2428c5.css.map": "/static/css/main.3d2428c5.css.map",
+    "main.46dffa87.js.map": "/static/js/main.46dffa87.js.map",
+    "453.9eb760ef.chunk.js.map": "/static/js/453.9eb760ef.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.1628da85.css",
-    "static/js/main.d3276032.js"
+    "static/css/main.3d2428c5.css",
+    "static/js/main.46dffa87.js"
   ]
 }
