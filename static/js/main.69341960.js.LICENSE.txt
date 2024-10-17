@@ -4,8 +4,6 @@
 	http://jedwatson.github.io/classnames
 */
 
-/*! @license DOMPurify 3.1.6 | (c) Cure53 and other contributors | Released under the Apache license 2.0 and Mozilla Public License 2.0 | github.com/cure53/DOMPurify/blob/3.1.6/LICENSE */
-
 /**
  * @license React
  * react-dom.production.min.js
@@ -48,17 +46,6 @@
 
 /**
  * @remix-run/router v1.18.0
- *
- * Copyright (c) Remix Software Inc.
- *
- * This source code is licensed under the MIT license found in the
- * LICENSE.md file in the root directory of this source tree.
- *
- * @license MIT
- */
-
-/**
- * React Router DOM v6.25.1
  *
  * Copyright (c) Remix Software Inc.
  *
